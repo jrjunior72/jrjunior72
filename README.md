@@ -9,8 +9,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrjunior72&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jrjunior72&repo=AromaSpot&show_icons=true&theme=dark)](https://github.com/jrjunior72/AromaSpot.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jrjunior72&repo=AromaSpot&show_icons=true&theme=dark)](https://github.com/jrjunior72/ebac-pratica-m14-bootstrap-avancado.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jrjunior72&repo=ebac-pratica-m14-bootstrap-avancado&show_icons=true&theme=dark)](https://github.com/jrjunior72/ebac-pratica-m14-bootstrap-avancado.git)
 
 ### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrjunior72&layout=compact&show_icons=true&theme=dark)
