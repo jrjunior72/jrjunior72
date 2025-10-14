@@ -1,4 +1,4 @@
-### Hi There 👋
+### Olá 👋
 
 ##### Sobre o Ricardo
 Desenvolvedor Full Stack em formação | Projetos práticos com foco em tecnologias modernas
