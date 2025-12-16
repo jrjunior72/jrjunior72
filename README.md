@@ -29,6 +29,7 @@ Participei de uma jornada de 75h de formação em desenvolvimento Full Stack Pyt
 
 ## 🚀 Projetos em destaque
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jrjunior72&repo=twitter-clone&show_icons=true)](https://github.com/jrjunior72/twitter-clone.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jrjunior72&repo=ebac_m35_pratica_efood&show_icons=true)](https://github.com/jrjunior72/ebac_m35_pratica_efood.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jrjunior72&repo=ebac_M4_python_avancado&show_icons=true)](https://github.com/jrjunior72/ebac_M4_python_avancado.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jrjunior72&repo=AromaSpot&show_icons=true)](https://github.com/jrjunior72/AromaSpot.git)
